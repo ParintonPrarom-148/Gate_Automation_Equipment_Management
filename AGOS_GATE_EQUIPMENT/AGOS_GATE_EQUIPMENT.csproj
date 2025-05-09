@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C60FFEF8-1D08-415E-AD91-38097B7B561B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AGOS_GATE_EQUIPMENT</RootNamespace>
+    <AssemblyName>AGOS_GATE_EQUIPMENT</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.8.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="SmartcardLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>SmartcardLibrary\bin\Release\SmartcardLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.8.0.0\lib\net462\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=8.0.0.5, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.8.0.5\lib\net462\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsInput, Version=1.0.4.0, Culture=neutral, PublicKeyToken=9b287f7dc5073cad, processorArchitecture=MSIL">
+      <HintPath>..\packages\InputSimulator.1.0.4.0\lib\net20\WindowsInput.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationSettingClass.cs" />
+    <Compile Include="ApplicationSetupPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationSetupPage.Designer.cs">
+      <DependentUpon>ApplicationSetupPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BarrierLOG_Class.cs" />
+    <Compile Include="BarrierPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BarrierPage.Designer.cs">
+      <DependentUpon>BarrierPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BarrierStatusClass.cs" />
+    <Compile Include="CardReaderPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CardReaderPage.Designer.cs">
+      <DependentUpon>CardReaderPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Config.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config.Designer.cs">
+      <DependentUpon>Config.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConfigClass.cs" />
+    <Compile Include="ErrorReader.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogFilePageReader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogFilePageReader.Designer.cs">
+      <DependentUpon>LogFilePageReader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogFilePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogFilePage.Designer.cs">
+      <DependentUpon>LogFilePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PickConfigClass.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReaderClass.cs" />
+    <Compile Include="ReaderStatusClass.cs" />
+    <Compile Include="ReplyMessage.cs" />
+    <Compile Include="SmartcardLibrary\CardState.cs" />
+    <Compile Include="SmartcardLibrary\GlobalSuppressions.cs" />
+    <Compile Include="SmartcardLibrary\IPcscProvider.cs" />
+    <Compile Include="SmartcardLibrary\IPcscProviderExtensions.cs" />
+    <Compile Include="SmartcardLibrary\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Include="SmartcardLibrary\obj\Release\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" />
+    <Compile Include="SmartcardLibrary\Pcsc.cs" />
+    <Compile Include="SmartcardLibrary\PcscConnection.cs" />
+    <Compile Include="SmartcardLibrary\PcscContext.cs" />
+    <Compile Include="SmartcardLibrary\PcscException.cs" />
+    <Compile Include="SmartcardLibrary\PcscProvider.cs" />
+    <Compile Include="SmartcardLibrary\PcscReaderState.cs" />
+    <Compile Include="SmartcardLibrary\PcscReaderStatus.cs" />
+    <Compile Include="SmartcardLibrary\Pcsc_1.cs" />
+    <Compile Include="SmartcardLibrary\ReaderState.cs" />
+    <Compile Include="SmartcardLibrary\SCardContext.cs" />
+    <Compile Include="SmartcardLibrary\SCardControlFunction.cs" />
+    <Compile Include="SmartcardLibrary\SCardDisposition.cs" />
+    <Compile Include="SmartcardLibrary\SCardError.cs" />
+    <Compile Include="SmartcardLibrary\SCardErrorExtensions.cs" />
+    <Compile Include="SmartcardLibrary\SCardHandle.cs" />
+    <Compile Include="SmartcardLibrary\SCardIORequest.cs" />
+    <Compile Include="SmartcardLibrary\SCardIORequestLinux.cs" />
+    <Compile Include="SmartcardLibrary\SCardProtocols.cs" />
+    <Compile Include="SmartcardLibrary\SCardReaderGroup.cs" />
+    <Compile Include="SmartcardLibrary\SCardReaderGroupExtensions.cs" />
+    <Compile Include="SmartcardLibrary\SCardReaderState.cs" />
+    <Compile Include="SmartcardLibrary\SCardReaderStateLinux.cs" />
+    <Compile Include="SmartcardLibrary\SCardReaderStateOSX.cs" />
+    <Compile Include="SmartcardLibrary\SCardReaderStates.cs" />
+    <Compile Include="SmartcardLibrary\SCardReaderStatesExtensions.cs" />
+    <Compile Include="SmartcardLibrary\SCardScope.cs" />
+    <Compile Include="SmartcardLibrary\SCardShare.cs" />
+    <Compile Include="SmartcardLibrary\SmartcardContextSafeHandle.cs" />
+    <Compile Include="SmartcardLibrary\SmartcardErrorCode.cs" />
+    <Compile Include="SmartcardLibrary\SmartcardManager.cs" />
+    <Compile Include="SmartcardLibrary\UnsafeNativeMethods.cs" />
+    <Compile Include="SmartcardLibrary\WinSCard.cs" />
+    <EmbeddedResource Include="ApplicationSetupPage.resx">
+      <DependentUpon>ApplicationSetupPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BarrierPage.resx">
+      <DependentUpon>BarrierPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CardReaderPage.resx">
+      <DependentUpon>CardReaderPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config.resx">
+      <DependentUpon>Config.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogFilePageReader.resx">
+      <DependentUpon>LogFilePageReader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogFilePage.resx">
+      <DependentUpon>LogFilePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="KioskSetting.json" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SmartcardLibrary\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="SmartcardLibrary\obj\Debug\SmartcardLibrary.csproj.AssemblyReference.cache" />
+    <None Include="SmartcardLibrary\obj\Debug\SmartcardLibrary.csproj.CopyComplete" />
+    <None Include="SmartcardLibrary\obj\Debug\SmartcardLibrary.csproj.CoreCompileInputs.cache" />
+    <None Include="SmartcardLibrary\obj\Release\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="SmartcardLibrary\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="SmartcardLibrary\obj\Release\Smartcar.A6B91E9E.Up2Date" />
+    <None Include="SmartcardLibrary\obj\Release\SmartcardLibrary.csproj.AssemblyReference.cache" />
+    <None Include="SmartcardLibrary\obj\Release\SmartcardLibrary.csproj.CopyComplete" />
+    <None Include="SmartcardLibrary\obj\Release\SmartcardLibrary.csproj.CoreCompileInputs.cache" />
+    <None Include="SmartcardLibrary\packages.config" />
+    <None Include="SmartcardLibrary\SmartcardLibrary.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\offline_icon.png" />
+    <Content Include="Images\online_icon.png" />
+    <Content Include="SmartcardLibrary\bin\Debug\SmartcardLibrary.dll" />
+    <Content Include="SmartcardLibrary\bin\Debug\SmartcardLibrary.pdb" />
+    <Content Include="SmartcardLibrary\bin\Debug\WindowsInput.dll" />
+    <Content Include="SmartcardLibrary\bin\Debug\WindowsInput.xml" />
+    <Content Include="SmartcardLibrary\bin\Release\SmartcardLibrary.dll" />
+    <Content Include="SmartcardLibrary\bin\Release\SmartcardLibrary.pdb" />
+    <Content Include="SmartcardLibrary\bin\Release\WindowsInput.dll" />
+    <Content Include="SmartcardLibrary\bin\Release\WindowsInput.xml" />
+    <Content Include="SmartcardLibrary\obj\Debug\SmartcardLibrary.csproj.FileListAbsolute.txt" />
+    <Content Include="SmartcardLibrary\obj\Debug\SmartcardLibrary.dll" />
+    <Content Include="SmartcardLibrary\obj\Debug\SmartcardLibrary.pdb" />
+    <Content Include="SmartcardLibrary\obj\Release\SmartcardLibrary.csproj.FileListAbsolute.txt" />
+    <Content Include="SmartcardLibrary\obj\Release\SmartcardLibrary.dll" />
+    <Content Include="SmartcardLibrary\obj\Release\SmartcardLibrary.pdb" />
+    <Content Include="SmartcardLibrary\smartcard.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="SmartcardLibrary\obj\Release\TempPE\" />
+    <Folder Include="SmartcardLibrary\Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,164 @@
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\AGOS_GATE_EQUIPMENT.exe.config
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\AGOS_GATE_EQUIPMENT.exe
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\AGOS_GATE_EQUIPMENT.pdb
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.csproj.AssemblyReference.cache
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.BarrierPage.resources
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.Form1.resources
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.Properties.Resources.resources
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.csproj.GenerateResource.cache
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.csproj.CoreCompileInputs.cache
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GAT.4B3B77C4.Up2Date
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.exe
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.pdb
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.ApplicationSetupPage.resources
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.CardReaderPage.resources
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.LogFilePage.resources
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\SmartcardLibrary.dll
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\WindowsInput.dll
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\SmartcardLibrary.pdb
+C:\Users\nongd\source\repos\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\WindowsInput.xml
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.csproj.AssemblyReference.cache
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.ApplicationSetupPage.resources
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.BarrierPage.resources
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.CardReaderPage.resources
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.Form1.resources
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.LogFilePage.resources
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.Properties.Resources.resources
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.csproj.GenerateResource.cache
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.csproj.CoreCompileInputs.cache
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.exe
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.pdb
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\AGOS_GATE_EQUIPMENT.exe.config
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\AGOS_GATE_EQUIPMENT.exe
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\AGOS_GATE_EQUIPMENT.pdb
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\Newtonsoft.Json.dll
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\WindowsInput.dll
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\Newtonsoft.Json.xml
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\SmartcardLibrary.pdb
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\WindowsInput.xml
+D:\AGOST_GATE\Gate_101_Dew.git\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GAT.4B3B77C4.Up2Date
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.csproj.AssemblyReference.cache
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.ApplicationSetupPage.resources
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.BarrierPage.resources
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.CardReaderPage.resources
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.Form1.resources
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.LogFilePage.resources
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.Properties.Resources.resources
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.csproj.GenerateResource.cache
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.csproj.CoreCompileInputs.cache
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.exe
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.pdb
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\AGOS_GATE_EQUIPMENT.exe.config
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\AGOS_GATE_EQUIPMENT.exe
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\AGOS_GATE_EQUIPMENT.pdb
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GAT.4B3B77C4.Up2Date
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.LogFilePageReader.resources
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.Config.resources
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\SmartcardLibrary.pdb
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\WindowsInput.dll
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\WindowsInput.xml
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\SmartcardLibrary.dll
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Buffers.dll
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Memory.dll
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Text.Json.dll
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.ValueTuple.dll
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Buffers.xml
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Memory.xml
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Text.Json.xml
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Pluem\OneDrive\เอกสาร\AGOS\Main\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.ValueTuple.xml
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.csproj.AssemblyReference.cache
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.ApplicationSetupPage.resources
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.BarrierPage.resources
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.CardReaderPage.resources
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.Config.resources
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.Form1.resources
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.LogFilePageReader.resources
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.LogFilePage.resources
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.Properties.Resources.resources
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.csproj.GenerateResource.cache
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.csproj.CoreCompileInputs.cache
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.exe
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.pdb
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\AGOS_GATE_EQUIPMENT.exe.config
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\AGOS_GATE_EQUIPMENT.exe
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\AGOS_GATE_EQUIPMENT.pdb
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\SmartcardLibrary.dll
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Buffers.dll
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Memory.dll
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Text.Json.dll
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.ValueTuple.dll
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\WindowsInput.dll
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\SmartcardLibrary.pdb
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Buffers.xml
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Memory.xml
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Text.Json.xml
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\System.ValueTuple.xml
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\bin\Debug\WindowsInput.xml
+C:\Users\Pluem\source\repos\Gate_101_Dew\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GAT.4B3B77C4.Up2Date
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\AGOS_GATE_EQUIPMENT.exe.config
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\AGOS_GATE_EQUIPMENT.exe
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\AGOS_GATE_EQUIPMENT.pdb
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\SmartcardLibrary.dll
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\System.Buffers.dll
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\System.Memory.dll
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\System.Text.Json.dll
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\System.ValueTuple.dll
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\WindowsInput.dll
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\SmartcardLibrary.pdb
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\System.Buffers.xml
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\System.Memory.xml
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\System.Text.Json.xml
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\System.ValueTuple.xml
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\bin\Debug\WindowsInput.xml
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.csproj.AssemblyReference.cache
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.ApplicationSetupPage.resources
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.BarrierPage.resources
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.CardReaderPage.resources
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.Config.resources
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.Form1.resources
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.LogFilePageReader.resources
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.LogFilePage.resources
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.Properties.Resources.resources
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.csproj.GenerateResource.cache
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.csproj.CoreCompileInputs.cache
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GAT.4B3B77C4.Up2Date
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.exe
+C:\Users\Pluem\OneDrive\เอกสาร\Gate Automation Equipment Manegement\Program\AGOS_GATE_EQUIPMENT\obj\Debug\AGOS_GATE_EQUIPMENT.pdb

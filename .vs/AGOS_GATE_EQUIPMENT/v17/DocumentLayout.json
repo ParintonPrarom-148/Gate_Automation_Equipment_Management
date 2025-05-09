@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pluem\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Gate Automation Equipment Manegement\\Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FFEF8-1D08-415E-AD91-38097B7B561B}|AGOS_GATE_EQUIPMENT\\AGOS_GATE_EQUIPMENT.csproj|c:\\users\\pluem\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\gate automation equipment manegement\\program\\agos_gate_equipment\\barrierpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60FFEF8-1D08-415E-AD91-38097B7B561B}|AGOS_GATE_EQUIPMENT\\AGOS_GATE_EQUIPMENT.csproj|solutionrelative:agos_gate_equipment\\barrierpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FFEF8-1D08-415E-AD91-38097B7B561B}|AGOS_GATE_EQUIPMENT\\AGOS_GATE_EQUIPMENT.csproj|c:\\users\\pluem\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\gate automation equipment manegement\\program\\agos_gate_equipment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60FFEF8-1D08-415E-AD91-38097B7B561B}|AGOS_GATE_EQUIPMENT\\AGOS_GATE_EQUIPMENT.csproj|solutionrelative:agos_gate_equipment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FFEF8-1D08-415E-AD91-38097B7B561B}|AGOS_GATE_EQUIPMENT\\AGOS_GATE_EQUIPMENT.csproj|c:\\users\\pluem\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\gate automation equipment manegement\\program\\agos_gate_equipment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C60FFEF8-1D08-415E-AD91-38097B7B561B}|AGOS_GATE_EQUIPMENT\\AGOS_GATE_EQUIPMENT.csproj|solutionrelative:agos_gate_equipment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FFEF8-1D08-415E-AD91-38097B7B561B}|AGOS_GATE_EQUIPMENT\\AGOS_GATE_EQUIPMENT.csproj|c:\\users\\pluem\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\gate automation equipment manegement\\program\\agos_gate_equipment\\barrierpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C60FFEF8-1D08-415E-AD91-38097B7B561B}|AGOS_GATE_EQUIPMENT\\AGOS_GATE_EQUIPMENT.csproj|solutionrelative:agos_gate_equipment\\barrierpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60FFEF8-1D08-415E-AD91-38097B7B561B}|AGOS_GATE_EQUIPMENT\\AGOS_GATE_EQUIPMENT.csproj|c:\\users\\pluem\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\gate automation equipment manegement\\program\\agos_gate_equipment\\cardreaderpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C60FFEF8-1D08-415E-AD91-38097B7B561B}|AGOS_GATE_EQUIPMENT\\AGOS_GATE_EQUIPMENT.csproj|solutionrelative:agos_gate_equipment\\cardreaderpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BarrierPage.cs",
+              "DocumentMoniker": "C:\\Users\\Pluem\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Gate Automation Equipment Manegement\\Program\\AGOS_GATE_EQUIPMENT\\BarrierPage.cs",
+              "RelativeDocumentMoniker": "AGOS_GATE_EQUIPMENT\\BarrierPage.cs",
+              "ToolTip": "C:\\Users\\Pluem\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Gate Automation Equipment Manegement\\Program\\AGOS_GATE_EQUIPMENT\\BarrierPage.cs",
+              "RelativeToolTip": "AGOS_GATE_EQUIPMENT\\BarrierPage.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwGYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:13:15.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BarrierPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pluem\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Gate Automation Equipment Manegement\\Program\\AGOS_GATE_EQUIPMENT\\BarrierPage.cs",
+              "RelativeDocumentMoniker": "AGOS_GATE_EQUIPMENT\\BarrierPage.cs",
+              "ToolTip": "C:\\Users\\Pluem\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Gate Automation Equipment Manegement\\Program\\AGOS_GATE_EQUIPMENT\\BarrierPage.cs [Design]",
+              "RelativeToolTip": "AGOS_GATE_EQUIPMENT\\BarrierPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:12:57.289Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Pluem\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Gate Automation Equipment Manegement\\Program\\AGOS_GATE_EQUIPMENT\\Form1.cs",
+              "RelativeDocumentMoniker": "AGOS_GATE_EQUIPMENT\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pluem\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Gate Automation Equipment Manegement\\Program\\AGOS_GATE_EQUIPMENT\\Form1.cs",
+              "RelativeToolTip": "AGOS_GATE_EQUIPMENT\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAewCQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:11:19.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pluem\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Gate Automation Equipment Manegement\\Program\\AGOS_GATE_EQUIPMENT\\Form1.cs",
+              "RelativeDocumentMoniker": "AGOS_GATE_EQUIPMENT\\Form1.cs",
+              "ToolTip": "C:\\Users\\Pluem\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Gate Automation Equipment Manegement\\Program\\AGOS_GATE_EQUIPMENT\\Form1.cs [Design]",
+              "RelativeToolTip": "AGOS_GATE_EQUIPMENT\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:11:18.122Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CardReaderPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Pluem\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Gate Automation Equipment Manegement\\Program\\AGOS_GATE_EQUIPMENT\\CardReaderPage.cs",
+              "RelativeDocumentMoniker": "AGOS_GATE_EQUIPMENT\\CardReaderPage.cs",
+              "ToolTip": "C:\\Users\\Pluem\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\Gate Automation Equipment Manegement\\Program\\AGOS_GATE_EQUIPMENT\\CardReaderPage.cs [Design]*",
+              "RelativeToolTip": "AGOS_GATE_EQUIPMENT\\CardReaderPage.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:09:51.342Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

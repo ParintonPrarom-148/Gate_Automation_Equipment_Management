@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1A5719C8-5F20-4426-96B4-58CB6391C2AC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SmartcardLibrary</RootNamespace>
+    <AssemblyName>SmartcardLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>smartcard.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsInput, Version=1.0.4.0, Culture=neutral, PublicKeyToken=9b287f7dc5073cad, processorArchitecture=MSIL">
+      <HintPath>..\packages\InputSimulator.1.0.4.0\lib\net20\WindowsInput.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CardState.cs" />
+    <Compile Include="GlobalSuppressions.cs" />
+    <Compile Include="IPcscProvider.cs" />
+    <Compile Include="IPcscProviderExtensions.cs" />
+    <Compile Include="Pcsc.cs" />
+    <Compile Include="PcscConnection.cs" />
+    <Compile Include="PcscContext.cs" />
+    <Compile Include="PcscException.cs" />
+    <Compile Include="PcscProvider.cs" />
+    <Compile Include="PcscReaderState.cs" />
+    <Compile Include="PcscReaderStatus.cs" />
+    <Compile Include="Pcsc_1.cs" />
+    <Compile Include="SCardContext.cs" />
+    <Compile Include="SCardControlFunction.cs" />
+    <Compile Include="SCardDisposition.cs" />
+    <Compile Include="SCardError.cs" />
+    <Compile Include="SCardErrorExtensions.cs" />
+    <Compile Include="SCardHandle.cs" />
+    <Compile Include="SCardIORequest.cs" />
+    <Compile Include="SCardIORequestLinux.cs" />
+    <Compile Include="SCardProtocols.cs" />
+    <Compile Include="SCardReaderGroup.cs" />
+    <Compile Include="SCardReaderGroupExtensions.cs" />
+    <Compile Include="SCardReaderState.cs" />
+    <Compile Include="SCardReaderStateLinux.cs" />
+    <Compile Include="SCardReaderStateOSX.cs" />
+    <Compile Include="SCardReaderStates.cs" />
+    <Compile Include="SCardReaderStatesExtensions.cs" />
+    <Compile Include="SCardScope.cs" />
+    <Compile Include="SCardShare.cs" />
+    <Compile Include="SmartcardErrorCode.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReaderState.cs" />
+    <Compile Include="SmartcardContextSafeHandle.cs" />
+    <Compile Include="SmartcardManager.cs" />
+    <Compile Include="UnsafeNativeMethods.cs" />
+    <Compile Include="WinSCard.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="smartcard.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

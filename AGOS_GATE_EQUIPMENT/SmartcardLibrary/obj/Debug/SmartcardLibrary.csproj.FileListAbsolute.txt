@@ -1,0 +1,9 @@
+C:\Users\ponth\source\repos\MonitoringSmartcardReader-master\src\SmartCardLibrary\bin\Debug\SmartcardLibrary.dll
+C:\Users\ponth\source\repos\MonitoringSmartcardReader-master\src\SmartCardLibrary\bin\Debug\SmartcardLibrary.pdb
+C:\Users\ponth\source\repos\MonitoringSmartcardReader-master\src\SmartCardLibrary\bin\Debug\WindowsInput.dll
+C:\Users\ponth\source\repos\MonitoringSmartcardReader-master\src\SmartCardLibrary\bin\Debug\WindowsInput.xml
+C:\Users\ponth\source\repos\MonitoringSmartcardReader-master\src\SmartCardLibrary\obj\Debug\SmartcardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ponth\source\repos\MonitoringSmartcardReader-master\src\SmartCardLibrary\obj\Debug\SmartcardLibrary.csproj.CopyComplete
+C:\Users\ponth\source\repos\MonitoringSmartcardReader-master\src\SmartCardLibrary\obj\Debug\SmartcardLibrary.dll
+C:\Users\ponth\source\repos\MonitoringSmartcardReader-master\src\SmartCardLibrary\obj\Debug\SmartcardLibrary.pdb
+C:\Users\ponth\source\repos\MonitoringSmartcardReader-master\src\SmartCardLibrary\obj\Debug\SmartcardLibrary.csproj.AssemblyReference.cache
